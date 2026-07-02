@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Build / cache
+node_modules/
+dist/
+build/
+src/.cache/
+
+# Streamlit cache
+.streamlit/
+
+# Environment variables
+.env
+.env.production
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
